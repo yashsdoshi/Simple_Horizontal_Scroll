@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+  font-size: 2rem;
+}
+
+body, html{
+  height: 500vh;
+  width: 100%;
+}
+
+.line-1{
+  position: fixed;
+  top: 40%;
+  left: -800px;
+  white-space: nowrap;
+}
+
+.line-2{
+  position: fixed;
+  top: 48%;
+  right: -800px;
+  white-space: nowrap;
+}
