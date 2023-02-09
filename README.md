@@ -24,7 +24,7 @@ git clone 'https://github.com/yashdoshi12/Simple_Horizontal_Scroll.git'
 cd Simple_Horizontal_Scroll
 ```
 
-### :octocat: Example prewview of website-- https://yashdoshi12.github.io/Simple_Horizontal_Scroll/
+### :octocat: Example preview of website-- https://yashdoshi12.github.io/Simple_Horizontal_Scroll/
 
 <hr />
 <br />
