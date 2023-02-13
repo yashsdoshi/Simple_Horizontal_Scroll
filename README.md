@@ -24,6 +24,8 @@ git clone 'https://github.com/yashdoshi12/Simple_Horizontal_Scroll.git'
 cd Simple_Horizontal_Scroll
 ```
 
+### :octocat: Check this code on github pages:
+https://yashdoshi12.github.io/Simple_Horizontal_Scroll/
 ### :octocat: Example preview of website:
 ![majhi bhasha majhi aai shorth](https://user-images.githubusercontent.com/39629707/217847611-2d220a6e-724c-400c-8595-7821c028ef1a.gif)
 
